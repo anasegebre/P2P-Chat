@@ -18,4 +18,4 @@ To join an existing chat (the port number is displayed at top of chatbox):
 $./p2pchat `<username>` `<other user's machine name>` `<port number>`
 
 
-You can type a message and send it to the chat by pressing **<Enter>**. You can quit the chat by entering **:quit** or **:q** 
+You can type a message and send it to the chat by pressing **Enter**. You can quit the chat by entering **:quit** or **:q** 
